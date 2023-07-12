@@ -4,11 +4,11 @@
 
 Bu bir çok projenin birleştirilmiş hali olup **C#** dilinde çeşitli metodolojilerin örneklerini içermektedir.
 Olabildiğince açıklama satırları yazılarak hazırlanmış bir uygulamadır.
-**C#** programlama dili ile **.NET 4** framework üzerinde **Visual Studio 2017** *IDE*si kullanılarak hazırlanmıştır. 
+**C#** programlama dili ile **.NET 4.7.2** framework üzerinde **JetBrains Rider** *IDE*si kullanılarak hazırlanmıştır. 
 
 |  Programlama Dili  |  .NET Versiyonu  | Geliştirme Ortamı |
 |------------------------|----------------|----------------------|
-|          *C#*          |      *4.0*     | *Visual Studio 2017* |
+|          *C#*          |      *4.7.2*     | *JetBrains Rider* |
 
 Bu uygulamada;
 
@@ -17,6 +17,7 @@ Bu uygulamada;
  - *Döngüler*
  - *Koşul Belirteçleri*
  - *Metotlar*
+ - *İstisnai Durum Yönetimi (Exceptions)*
  - *Nesneye Yönelik Programlama*
  	+ *Soyut Sınıflar (Abstract)*
 	+ *Arayüz Sınıfları (Interface)*
