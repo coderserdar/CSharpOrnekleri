@@ -4,3 +4,11 @@ C:\Users\ftegitim\source\repos\Algoritmalar\Examples\bin\Debug\Examples.pdb
 C:\Users\ftegitim\source\repos\Algoritmalar\Examples\obj\Debug\Examples.csprojAssemblyReference.cache
 C:\Users\ftegitim\source\repos\Algoritmalar\Examples\obj\Debug\Examples.exe
 C:\Users\ftegitim\source\repos\Algoritmalar\Examples\obj\Debug\Examples.pdb
+C:\Users\DELL\Documents\GitHub\CSharpOrnekleri\SourceCode\Algoritmalar\Examples\bin\Debug\Examples.exe.config
+C:\Users\DELL\Documents\GitHub\CSharpOrnekleri\SourceCode\Algoritmalar\Examples\bin\Debug\Examples.exe
+C:\Users\DELL\Documents\GitHub\CSharpOrnekleri\SourceCode\Algoritmalar\Examples\bin\Debug\Examples.pdb
+C:\Users\DELL\Documents\GitHub\CSharpOrnekleri\SourceCode\Algoritmalar\Examples\obj\Debug\Examples.csproj.AssemblyReference.cache
+C:\Users\DELL\Documents\GitHub\CSharpOrnekleri\SourceCode\Algoritmalar\Examples\obj\Debug\Examples.csproj.SuggestedBindingRedirects.cache
+C:\Users\DELL\Documents\GitHub\CSharpOrnekleri\SourceCode\Algoritmalar\Examples\obj\Debug\Examples.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Documents\GitHub\CSharpOrnekleri\SourceCode\Algoritmalar\Examples\obj\Debug\Examples.exe
+C:\Users\DELL\Documents\GitHub\CSharpOrnekleri\SourceCode\Algoritmalar\Examples\obj\Debug\Examples.pdb

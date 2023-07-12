@@ -7,7 +7,7 @@
     <ProjectGuid>{DB3189BA-2BF0-4FB0-B446-B9CB10BC7E76}</ProjectGuid>
     <OutputType>Exe</OutputType>
     <RootNamespace>MatmeticalOparetors</RootNamespace>
-    <AssemblyName>MatmeticalOparetors</AssemblyName>
+    <AssemblyName>MathematicalOperators</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>

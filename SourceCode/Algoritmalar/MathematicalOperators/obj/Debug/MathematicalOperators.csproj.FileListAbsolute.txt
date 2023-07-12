@@ -1,0 +1,8 @@
+C:\Users\DELL\Documents\GitHub\CSharpOrnekleri\SourceCode\Algoritmalar\MathematicalOperators\bin\Debug\MathematicalOperators.exe.config
+C:\Users\DELL\Documents\GitHub\CSharpOrnekleri\SourceCode\Algoritmalar\MathematicalOperators\bin\Debug\MathematicalOperators.exe
+C:\Users\DELL\Documents\GitHub\CSharpOrnekleri\SourceCode\Algoritmalar\MathematicalOperators\bin\Debug\MathematicalOperators.pdb
+C:\Users\DELL\Documents\GitHub\CSharpOrnekleri\SourceCode\Algoritmalar\MathematicalOperators\obj\Debug\MathematicalOperators.csproj.AssemblyReference.cache
+C:\Users\DELL\Documents\GitHub\CSharpOrnekleri\SourceCode\Algoritmalar\MathematicalOperators\obj\Debug\MathematicalOperators.csproj.SuggestedBindingRedirects.cache
+C:\Users\DELL\Documents\GitHub\CSharpOrnekleri\SourceCode\Algoritmalar\MathematicalOperators\obj\Debug\MathematicalOperators.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Documents\GitHub\CSharpOrnekleri\SourceCode\Algoritmalar\MathematicalOperators\obj\Debug\MathematicalOperators.exe
+C:\Users\DELL\Documents\GitHub\CSharpOrnekleri\SourceCode\Algoritmalar\MathematicalOperators\obj\Debug\MathematicalOperators.pdb

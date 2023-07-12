@@ -70,8 +70,7 @@ namespace Variables
             uint degiskenSekiz = 4236549871;
 
             //////////////////// ONDALIKLI VERİ TİPLERİ ///////////////
-            ///float => .'dan sonra 7 hane desteği => 32 Bit
-            ///
+            // float => .'dan sonra 7 hane desteği => 32 Bit
             float ondalikliBir = 1.245F;
 
             //Double => .'dan sonra 13-14 hane desteği => 64 Bit

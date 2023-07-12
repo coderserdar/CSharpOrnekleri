@@ -7,7 +7,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Algoritmalar", "Algoritmala
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Variables", "Variables\Variables.csproj", "{394569DB-749A-4C83-8D13-43A71340453C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MatmeticalOparetors", "MatmeticalOparetors\MatmeticalOparetors.csproj", "{DB3189BA-2BF0-4FB0-B446-B9CB10BC7E76}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MathematicalOperators", "MathematicalOperators\MathematicalOperators.csproj", "{DB3189BA-2BF0-4FB0-B446-B9CB10BC7E76}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Examples", "Examples\Examples.csproj", "{5E68E6CE-ECCA-499A-9EA6-EE660064A001}"
 EndProject

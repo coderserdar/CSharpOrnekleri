@@ -5,3 +5,11 @@ C:\Users\ftegitim\source\repos\Algoritmalar\Algoritmalar\obj\Debug\Algoritmalar.
 C:\Users\ftegitim\source\repos\Algoritmalar\Algoritmalar\obj\Debug\Algoritmalar.pdb
 C:\Users\ftegitim\source\repos\Algoritmalar\Algoritmalar\bin\Debug\Algoritmalar.exe.CodeAnalysisLog.xml
 C:\Users\ftegitim\source\repos\Algoritmalar\Algoritmalar\bin\Debug\Algoritmalar.exe.lastcodeanalysissucceeded
+C:\Users\DELL\Documents\GitHub\CSharpOrnekleri\SourceCode\Algoritmalar\Algoritmalar\bin\Debug\Algoritmalar.exe.config
+C:\Users\DELL\Documents\GitHub\CSharpOrnekleri\SourceCode\Algoritmalar\Algoritmalar\bin\Debug\Algoritmalar.exe
+C:\Users\DELL\Documents\GitHub\CSharpOrnekleri\SourceCode\Algoritmalar\Algoritmalar\bin\Debug\Algoritmalar.pdb
+C:\Users\DELL\Documents\GitHub\CSharpOrnekleri\SourceCode\Algoritmalar\Algoritmalar\obj\Debug\Algoritmalar.csproj.AssemblyReference.cache
+C:\Users\DELL\Documents\GitHub\CSharpOrnekleri\SourceCode\Algoritmalar\Algoritmalar\obj\Debug\Algoritmalar.csproj.SuggestedBindingRedirects.cache
+C:\Users\DELL\Documents\GitHub\CSharpOrnekleri\SourceCode\Algoritmalar\Algoritmalar\obj\Debug\Algoritmalar.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Documents\GitHub\CSharpOrnekleri\SourceCode\Algoritmalar\Algoritmalar\obj\Debug\Algoritmalar.exe
+C:\Users\DELL\Documents\GitHub\CSharpOrnekleri\SourceCode\Algoritmalar\Algoritmalar\obj\Debug\Algoritmalar.pdb
