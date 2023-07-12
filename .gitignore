@@ -261,3 +261,14 @@ FakesAssemblies/
 
 # Visual Studio 6 workspace options file
 *.opt
+*.exe
+*.pdb
+SourceCode/Arrays/.idea/.idea.Arrays/.idea/encodings.xml
+SourceCode/Arrays/.idea/.idea.Arrays/.idea/indexLayout.xml
+SourceCode/Arrays/.idea/.idea.Arrays/.idea/vcs.xml
+SourceCode/Arrays/Arrays/bin/Debug/Arrays.exe
+SourceCode/Arrays/Arrays/bin/Debug/Arrays.pdb
+SourceCode/Arrays/Arrays/obj/Debug/Arrays.csproj.FileListAbsolute.txt
+SourceCode/Arrays/Arrays/obj/Debug/Arrays.csproj.GenerateResource.cache
+SourceCode/Arrays/Arrays/obj/Debug/Arrays.exe
+SourceCode/Arrays/Arrays/obj/Debug/Arrays.pdb

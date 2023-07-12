@@ -7,3 +7,14 @@ C:\Users\ftegitim\source\repos\Arrays\Arrays\obj\Debug\Arrays.Properties.Resourc
 C:\Users\ftegitim\source\repos\Arrays\Arrays\obj\Debug\Arrays.csproj.GenerateResource.cache
 C:\Users\ftegitim\source\repos\Arrays\Arrays\obj\Debug\Arrays.exe
 C:\Users\ftegitim\source\repos\Arrays\Arrays\obj\Debug\Arrays.pdb
+C:\Users\DELL\Documents\GitHub\CSharpOrnekleri\SourceCode\Arrays\Arrays\bin\Debug\Arrays.exe.config
+C:\Users\DELL\Documents\GitHub\CSharpOrnekleri\SourceCode\Arrays\Arrays\bin\Debug\Arrays.exe
+C:\Users\DELL\Documents\GitHub\CSharpOrnekleri\SourceCode\Arrays\Arrays\bin\Debug\Arrays.pdb
+C:\Users\DELL\Documents\GitHub\CSharpOrnekleri\SourceCode\Arrays\Arrays\obj\Debug\Arrays.csproj.AssemblyReference.cache
+C:\Users\DELL\Documents\GitHub\CSharpOrnekleri\SourceCode\Arrays\Arrays\obj\Debug\Arrays.csproj.SuggestedBindingRedirects.cache
+C:\Users\DELL\Documents\GitHub\CSharpOrnekleri\SourceCode\Arrays\Arrays\obj\Debug\Arrays.Form1.resources
+C:\Users\DELL\Documents\GitHub\CSharpOrnekleri\SourceCode\Arrays\Arrays\obj\Debug\Arrays.Properties.Resources.resources
+C:\Users\DELL\Documents\GitHub\CSharpOrnekleri\SourceCode\Arrays\Arrays\obj\Debug\Arrays.csproj.GenerateResource.cache
+C:\Users\DELL\Documents\GitHub\CSharpOrnekleri\SourceCode\Arrays\Arrays\obj\Debug\Arrays.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Documents\GitHub\CSharpOrnekleri\SourceCode\Arrays\Arrays\obj\Debug\Arrays.exe
+C:\Users\DELL\Documents\GitHub\CSharpOrnekleri\SourceCode\Arrays\Arrays\obj\Debug\Arrays.pdb
