@@ -1,0 +1,9 @@
+C:\Users\ftegitim\source\repos\Metotlar\Functions\bin\Debug\Functions.exe.config
+C:\Users\ftegitim\source\repos\Metotlar\Functions\bin\Debug\Functions.exe
+C:\Users\ftegitim\source\repos\Metotlar\Functions\bin\Debug\Functions.pdb
+C:\Users\ftegitim\source\repos\Metotlar\Functions\obj\Debug\Functions.csprojAssemblyReference.cache
+C:\Users\ftegitim\source\repos\Metotlar\Functions\obj\Debug\Functions.Form1.resources
+C:\Users\ftegitim\source\repos\Metotlar\Functions\obj\Debug\Functions.Properties.Resources.resources
+C:\Users\ftegitim\source\repos\Metotlar\Functions\obj\Debug\Functions.csproj.GenerateResource.cache
+C:\Users\ftegitim\source\repos\Metotlar\Functions\obj\Debug\Functions.exe
+C:\Users\ftegitim\source\repos\Metotlar\Functions\obj\Debug\Functions.pdb

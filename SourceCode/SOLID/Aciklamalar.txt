@@ -1,0 +1,185 @@
+
+-- Single Responsibilty Principle
+
+SRP => Tek iþi, tek sorumlulukta yapma sanatý olarak özetlenebilir.
+
+Srp sýnýflarýmýzýn iyi tnaýmlanmýþ tek bbir sorumluluðu olmasý gerektiðini anlatmaktadýr. Bir sýnýf(nesne)/method yalnýzca bir amaç uðruna deðiþtirilebilir, o amaçta sýnýfa yüklenen sorumluluktur, yani bir sýnýfýn/methodun yapmasý gereken yalnýzca bir iþi olmasý gerekir.
+Eðer geliþtiridðinniz sýnýf ya da fonk. birden fazla amaca hizmet ediyorsa, bu kurala aykýrý bir geliþtirime sürecinde olduðunuz anlamýna geliyor. Bunu farkttiðinizde amaçlara uygun olarak parçalamanýz gerekmektedir.
+Gereksinimler deðiþtirildiðinde, yazýlan kodda da deðiþmesi gerekn kýsýmlar olacaktýr. Bu da yazýlan sýnýflarýn bir kýsmýnýn ya da tamamýnýn deðiþtirilmesi anlamýna gelir. Bir sýnýf ne kadar fazla sorumluluk alýrsa, o kadar fazla deðiþime uðramak zorunda kalýr. Böylece birçok kod parçasýnýn deðiþmesine neden olurke, yeniden yazýmda; deðiþikliklerin uygulanmasýda bir o kadar zorlaþýr.
+Bir sýnýfý veya fonksiyonu geliþtiridiðimizde sorululuðunu ya da amacýný iyi belirleyip, sýnýfý ona göre tasarlamanýz gerekir, böylece oluþabilecek herhangi bir deðiþimden, olabildiðince az þeyi güvelleyerek ve düzelterek istenilen geliþtirmeyi saðlamýþ olacaksýnýz. Sorumluluðun azaltýlmasý demek deðiþime daha kolay adapte olmak demektir.
+Test - Bir sorumluluðu olan bir sýnýfta çok daha az sayýda test-case olacaktýr.
+Daha az Baðýmlýlýk - Bir sýnýfta tek bir sorumluluðun olmasý daha az baðýmlýlýk demektir.
+Yalýn ve Anlaþýlar Yapýlan - Daha az sorumluluk daha yalýn veya küçük yapýlara ulaþmasýný saðlar. Daha küçük yapýlar ise monolitik yapýlara göre çok daha avantajlýdýr ve kod okunurluðunu arttýrýr.
+
+Ýlk olarak SRP klasörüne bakalým
+Bu klasörde ilk olarak Employee Classý oluþturuyoruz. BadEmployeeProccessor ile SRP uymayacak bi class hazýrladýk.
+Arkadasýndan Logger sýnýfý oluþuturduk ve GoodEmployeeProcessor ile iþlerin birbirinde ayrýlmýþ halini tanýmladýk.
+..
+------------ Opem/Closed Principle
+
+Bir sýnýf ya da fonksiyon var olan özelliklerini korumalý yani davranýþýný deðiþtirmiyor olmalý ve yeni özellikler kazanabilmelidir.
+
+Sýnýflarmýzý/fonksiyonlarýmýz deðiþikliðe kapalý ancak yeni davranýþlarýnn eklenmesine açýk olmalýdýr.
+Bu prensip; sürdürülebilir ve tekrar kullanýlabilir yapýda kod yazmanýn temelini oluþturur. 
+Open => Sýnýf için yeni davranýþlar eklenebilmesini saðlar. Gereksinimle deðiþtiðinde, yeni gereksinimlerin karþýlanabilmesi için bir sýnýfa yeni veya farklý davranýþlar eklenebilir olmasýdýr.
+Closed => Bi sýnýf temel özelliklerinin deðiþimi ise mümkün olmamalýdýr. 
+Geliþtridðimiz yazýlýma/sýnýfa var olan kodu deðiþtirmeden, yeni kod yazýlarak yeni özellikler eklenebilmelidir. Yeni bir gereksinim geldiðinde mevcut kod üzerinde herhangi bir deðiþiklik yapýyorsanýz, open/closec prensibine ters düþmediðinizi kontrol etmekte yarar var. Yazýlýmý geliþtiriken gelecekte oluþabilecek özellikler ve geliþtirmeleri her þeyiyle öngöremeyiz. O yüzden oluþabiliceðini düþündüðüz kodlarý da þimdiden geliþtirmemeþliyiz. Yeni gelecek özellikler için varolan kodu deðiþtirmeden, varolan ypaýyý bozmadan esnek bir geliþtirme modeli uygulayarak, önü açýk ve gelecekten gereksinimlere kolayca adapte olur, ayak uydurabilen bir model uygulamalýyýz.
+
+--OCP klasörüne bakacaðýz.
+Bu prensibi elektrik adaptörleri gibi düþünebilirsiniz.
+Çýkýþ sayýsýný deðiþtirmek mümkün deðildir ancak üzerine istersek daha fazla adaptör ekleyebiliriz.
+Ilk olarak BadCoffee sýnýfýna bakýyoruz.
+Amaç => Her yeni tipte yeni bir class oluþtyrmak. Bu sayede kod geniþletilebilir olacak, sadece son eklenen classlar kontrol edilecek ve var olan classlarda modifikasayona gerek kalmayacaktýr.
+Ýlk versiyonunda tek class içerisinde switch-case ekleyerek tipleri tutarken, validated klasöründe her tip için class oluþturuduk. bu sayede yeni bir tip eklendiðinde sadece yeni bir sýnýf açýlacak ve var olan sýnýflarýn kodlarýnda deðiþikliðe gidilmek zorunda kalmayacaktýr.
+
+--------- Liskov Substution Principle
+
+Kodlarýmýzda herhangi bir deðiþiklik yapmak gerek duymadan alt sýnýflarý, türedikleri(üst) sýnýflarýn yerine kullanabilmeyiz.
+Türeyen sýnýf yani alt sýnýflar ana(üst) sýnýfýn tüm özelliklerini ve metolarýný ayný iþlevi gösterecek þekilde kullabilme ve kendine ait yeni özellikler barýndýrabilmelidir.
+"Alt seviye sýnýflardan oluþan nesnelerin/sýýnýflarýn, ana(üst) sýnýfýn nesneleri ile yer deðiþtirdikleri zaman, ayný davranýþý sergilemesi gerekmektedir. Türetilen sýnýflar, türeyen sýnýflarýn tüm özelliklerini kullanabilmelidir."
+
+-- LSP klasörüne bakýyoruz.
+-- Bu prensip OCP'ye çok benzerlik gösterir.
+-- Bu prensibi ICollection - List yapýlarý gibi düþünebiliriz.
+-- Alt sýnýflarda oluþan nesneler(kalýtým) üst sýnýflardan oluþturulan nesnelerle yer deðiþtirilebilir olmalýdýr.
+--Rectangle nesnesinden Square oluþturursak, program.cs içeriisnde açýklandýðý gibi hata alýyoruz.
+-- Bu hatayý çözmek için...
+
+1. AreaCalculator classýnýz kaldýrýyoruz.
+2. Her þeklin kendi alan hesaplamasýna sahip olduðundan emin oluyoruz.
+3. Dörtgen sýnýfýnýn base sýnýf olmasýndansa, shape adýna daha genel ve soyu bir sýnýf oluþturuyoruz.
+
+--Ýþlemleri Valitaded klasöründe gerçekleþtirip program.cs içeriisnde ikinci bölümü çalýþtýrýyoruz.
+-- Hatasýz çalýþtýðýný görebiliyoruz...
+
+------------------------ Interface Segregation Principle -----------
+Sorumluluklarýn hepsini tek bir arayüzde toplamak yerine daha özelliþtirilkmiþ birden fazla arayüz oluþturulmayý tercih etmemizi söyleyen prensiptir.
+
+Tek bir inteface yerine kullanýmlarýna göre parçalanmýþ, birden fazla interface ile iþlemleri yürütmeliyiz. Yani her farklý sorumluluðun kendine özgü bir arayüzü olmasý gerekmektedir. Böylece interfacei kullanan kiþide sadece ihtiyacý olanlarla ilgilenmiþ olur. Birden fazla amaç için yalnýzca bir arayüzümüz var ise buna gerektiðinden fazla method ya da özellik ekliyoruz demektir, bu da IS prensibine aykýrý davrandýðýmýz anlamýna gelir.
+Nesneler asla ihtiyacý olmayan property/method vs.. içeren interfaceleri implement etmeye zorlanmamalýdýr.
+Görüldüðü gibi SRP ve IS prensipleri birbirlerine oldukça yakýn ve ayný amaca hizmet eden prensiplerdir. Tek fark ise Interface Segragation interfaceler ile ilgilenirken, SRP sýnýflarla ilgilenir.
+Bir methodun ISP uymayan intarface'e eklenmesi veyua bir method üzerindeki deðiþiklik, Bu interface'i kullanan(implenet etmiþ) tüm sýnýflarý deðiþtirmenizi gerektirir. Bir arayüz yazarken, farklý sorumluluklarý ya da farklý favranýþ gruplarýný her zaman farklý arayüzlere ayýrmak önemlidir.
+Animal interface'inin ele alalým ve hayvanlara ait özellikleri barýndýrsýn. Uçmak, koþmak, havlamak gibi özellikler olduðunu düþünelim. Animal intrerface olarak aþaðýda yer alan üç özelliði birden barýndýran bir nesne(hayvan) varsa oun için çok güzel bir interface olur. Ancak diðer hayvanlarý da düþününce interface'imizin parçlanmaya ihtiyaç duyduðunu görebilirsiniz.
+
+public interface Animal
+{
+	void fly();
+	void bark();
+	void run();
+}
+
+Böyle bir yapý okunabilirliði azaltýr.
+Gerek duyulmayan metotlarý implement etmek zorunda kaldýk ve bakýmý zor bir hl almýþ oldur.
+Hadi güzelleþtirelim.. 
+Burada ypaýlmasý gereken; her temel özelliðe ayrý bir interface yaratarak ISP uygun hale getirmektir.
+
+Kuþlar uçar ve koþar, ancak havlayamazlar diye varsayabiliriz.
+Havlamayý boþuna implement etmiþ olduk.
+Yada senaryo da kedi olsa bu sefer yine havlama konusu ban aproblem yaratacak.
+Burada ihtiyaç olan genel özellikleri biraz daha lokal ihtiyaçlara göre gruplamak
+UçabilenHayvanlar..
+KoþabilenHayvanlar..
+YüzebilenHayvanlar..
+
+Kuþ için uçabilme ve koþabilme özelliklerini kazandýrmak isteiðinmizde artýk sadece bu yeteneklerin bulunduðu interfaceleri ilgili sýnýflara implement ederek yeteneklerini kazandýrabiliriz. Bu vesileyle interfaceler içeriisnde kullanýlmayan metotlardan kurtularak ISP'de uymuþ oluruz.
+
+-------------------------- Dependency Inversion Principle ----------
+Sýnýflar arasý baðýmlýlýklarýn olabildiðince az olmalýdýr özellikle üst seviye sýnýflar alt seviye sýnýflara baðýmlý olmamalýdýr.
+
+Bir sýnýfýn, methodun ya da özelliðinin, onu kullanan diðer sýnýflara karþý olan baðýmlýlýðý en aza þndirgenmelidir. Bir alt sýnýfta yapýlan deðiþiklikler üst sýnfýrlarý etkilememelidir.
+Yüksek seviye sýnfýlarda bir davranýþ deðiþtiðinde, alt seviye sýnýflarýn da davranýþýnýn bu deðiþime uyum saðlamasý gerekir. Ancak, düþük sýnýflar bir davranýþ deðiþtiðinde, üst seviye sýnýflarýn davranýþda bir bozulma meydana gelmemelidir.
+Prki, bütün bu sorunlardan kurtalmanýn yolu nedir ??
+Cevap => Dependency Inversion, yani üst sýnýflar, alt seviye soýnýflar baðlý olmamamlý, çözüm ise her ikisi de soyut kavramlar üzerinden yönetilebilmelidir. Yüksek seviye ve düþük seviye sýnýflar arasýnda bir soyutlama katmaný oluþturabiliriz.
+Üst Seviye Sýnýflar -> Soyutlama Katmaný -> Düþük Seviye Sýnýflar
+Bir örnekle anlaþýlmasý kolay gale getirelim.
+Bir notificaton sýnýfýmýz olsun.
+Bu sýnýf aracýlýðla Email ve sms gönderebilelim
+
+public class Email{
+	public void SendMail(){//Send Mail}
+}
+
+public class SMS{
+	public void SendSMS(){//Send SMS}
+}
+
+ve bildirim göndereceðimizde ikisinide çalýþtýrmak amacýyla oluþturduðumuz bir Notification sýnýfýmýz olmuþ oldu.
+
+public class Notification{
+	private Email eMail = new Email();
+	private SMS sms = new SMS();
+
+	public void Sender(){
+		email.SendEmail();
+		sms.sendSms();
+	}
+}
+Çok kötü gözükmeye sýnýfýlarýmýz var olmasýna raðmen dikkat etmemiz gerek önemli bir nokta daha var.
+Notifacition sýnýfýmýz yüksek seviye bir sýnýf olmasýna raðmen daha düþük seviyeli olan Email ve SMS sýnýflarýna baðýmlý halde. Sms ve EMail sýnýflarýnda yada methodlarýndaki deðiþimler direkt olarak notifacation sýnýfýný da etkileyecektir. eni bir modüle eklendiðinde de notification sýnýfýmýzda deðiþiklik yapmak zorunda kalacaðýz. bu durumda da DIP aykýrý hareket etmiþ olduk.
+Bütün SOLID prensiplerini düþündüðümüzde bu yapýya nasýl bir çözüm üretebiliriz?
+Notifacion sýnýfýný sms ve email sýnýfýna baðýmlýlýðýný ortadan kaldýrmak için bir soyutlama yaplaýyýz.
+Bu çözümü uygulamak için Email ve Sms sýnýflarýný da içeren bir interface yazarak baþlayabiliriz.
+
+public interface IMessage{
+	void SendMessage();
+}
+
+Email sýnýfý ise Message sýnýfý implement etmektedir.
+
+public class Email @implements IMessage { => Java Syntax
+	@Override
+	public void sendMessage(){
+		sendMail();
+	}
+
+	private void sendMail(){
+		// Send Mail
+	}
+}
+
+Ayný þekilde Sms sýnýfýný da Message sýnýfýnda implement edeceðiz.
+
+public class Sms @implements IMessage { => Java Syntax
+	@Override
+	public void sendMessage(){
+		sendSms();
+	}
+
+	private void sendSms(){
+		// Send sms
+	}
+}
+
+ve son olarak sýra, Notification classýmýzý yazmakta
+
+public class Notification{
+	private List<Message> _messages;
+
+	public Notification(List<Message> messages){
+		_messages = messages;
+	}
+
+	public void Sender{
+		for(IMessage message : _messages)
+			message.SendMessage();
+	}
+}
+
+Artýk emial ve sms sýnýflarýyla doðrudan baðlantýlý olmayan ve soyut olarka tanýmladýðýmý IMessage arayüzünü kullanan bir yapý haline getirdik. Yüksek seviye bir sýnýfýn alt seviye sýnfýlar olan baðýmlýlýðýný ortadan kkaldýrarak artýk soyut katman üzerinden iþlemleri yapabiliyirprz.
+DIP uygun hale getirdiðimiz yapý ile birlikte, baðýmlýlýklarý giderdik. Böylece Message sýnýfý implement edilen yeni bir sýnýfý Notification sýnýfýnda deðiþiklik yapmadan kullanabileceðiz.
+DIP, iyi dizayn edilmiþ sýnýflar, yüksek oranda ayrýþtýrýlmýþ baðýmlýlýklar(loosely coupled) ve tekrar kullanýlabilir kod parçalarý elde etmek için kullanabileceiðimiz basit ama güçlü bir programlama prensibidir. Kötü bir tasarýmda, yüksek seviye sýnýfý doðrudan kullanýr ve büyük ölçüde düþük seviye sýnýflara baðlýdýr.
+
+NOT: Dependency Inversion, Inversion of Control prensibinin temel parçalarýndan biridir.
+SoC
+Dependency Incjection
+
+--DIP Klasörüne bakýyoruz
+-- DIP high level bir sýnýfýn/modülün, alt seviye bir sýnýf yapýsýna baðýmlý olmasý durumudur.
+-- Abstraction ile sýnýfýmýzýn alt seviye sýnýflara baðýlýlýðýný kaldýrmamýz gereklidir.
+--Restaurant sýnýfýmýz high level, fish ve poultry sýnýfýmýz ise low level olarka tanýmlanabilir. Restauran sýnýfýnda ise iki low level sýnýftan instance alýnmýþ ve baðýmlýlýk oluþturulmuþtur.
+--Soyutlama yöntemi ile bu baðýmlýlýklarý yok etmemiz gerekiyor.
+-- Validated klasörüne bakýyor.
+-- IProduct adýnda bir interface tanýmlýyoruz.
+-- Validated içerisinde Restaurant ile Constructor Injection ile high level bir class olmasýný engelleyerek prensibimize uymaya çalýþýyoruz.
+
+

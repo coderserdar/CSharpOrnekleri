@@ -1,0 +1,8 @@
+C:\Users\ftegitim\source\repos\Algoritmalar\Variables\bin\Debug\Variables.exe.config
+C:\Users\ftegitim\source\repos\Algoritmalar\Variables\bin\Debug\Variables.exe
+C:\Users\ftegitim\source\repos\Algoritmalar\Variables\bin\Debug\Variables.pdb
+C:\Users\ftegitim\source\repos\Algoritmalar\Variables\obj\Debug\Variables.exe
+C:\Users\ftegitim\source\repos\Algoritmalar\Variables\obj\Debug\Variables.pdb
+C:\Users\ftegitim\source\repos\Algoritmalar\Variables\obj\Debug\Variables.csprojAssemblyReference.cache
+C:\Users\ftegitim\source\repos\Algoritmalar\Variables\bin\Debug\Variables.exe.CodeAnalysisLog.xml
+C:\Users\ftegitim\source\repos\Algoritmalar\Variables\bin\Debug\Variables.exe.lastcodeanalysissucceeded

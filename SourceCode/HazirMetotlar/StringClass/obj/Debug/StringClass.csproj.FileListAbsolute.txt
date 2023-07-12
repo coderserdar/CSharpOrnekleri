@@ -1,0 +1,9 @@
+C:\Users\ftegitim\source\repos\HazirMetotlar\StringClass\bin\Debug\StringClass.exe.config
+C:\Users\ftegitim\source\repos\HazirMetotlar\StringClass\bin\Debug\StringClass.exe
+C:\Users\ftegitim\source\repos\HazirMetotlar\StringClass\bin\Debug\StringClass.pdb
+C:\Users\ftegitim\source\repos\HazirMetotlar\StringClass\obj\Debug\StringClass.csprojAssemblyReference.cache
+C:\Users\ftegitim\source\repos\HazirMetotlar\StringClass\obj\Debug\StringClass.Form1.resources
+C:\Users\ftegitim\source\repos\HazirMetotlar\StringClass\obj\Debug\StringClass.Properties.Resources.resources
+C:\Users\ftegitim\source\repos\HazirMetotlar\StringClass\obj\Debug\StringClass.csproj.GenerateResource.cache
+C:\Users\ftegitim\source\repos\HazirMetotlar\StringClass\obj\Debug\StringClass.exe
+C:\Users\ftegitim\source\repos\HazirMetotlar\StringClass\obj\Debug\StringClass.pdb

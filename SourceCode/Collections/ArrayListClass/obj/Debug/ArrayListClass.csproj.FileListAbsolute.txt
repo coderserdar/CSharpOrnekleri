@@ -1,0 +1,8 @@
+C:\Users\ftegitim\source\repos\Collections\ArrayListClass\bin\Debug\ArrayListClass.exe.config
+C:\Users\ftegitim\source\repos\Collections\ArrayListClass\bin\Debug\ArrayListClass.exe
+C:\Users\ftegitim\source\repos\Collections\ArrayListClass\bin\Debug\ArrayListClass.pdb
+C:\Users\ftegitim\source\repos\Collections\ArrayListClass\obj\Debug\ArrayListClass.Form1.resources
+C:\Users\ftegitim\source\repos\Collections\ArrayListClass\obj\Debug\ArrayListClass.Properties.Resources.resources
+C:\Users\ftegitim\source\repos\Collections\ArrayListClass\obj\Debug\ArrayListClass.csproj.GenerateResource.cache
+C:\Users\ftegitim\source\repos\Collections\ArrayListClass\obj\Debug\ArrayListClass.exe
+C:\Users\ftegitim\source\repos\Collections\ArrayListClass\obj\Debug\ArrayListClass.pdb

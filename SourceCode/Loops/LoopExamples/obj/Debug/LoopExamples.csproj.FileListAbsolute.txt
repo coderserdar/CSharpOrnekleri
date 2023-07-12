@@ -1,0 +1,8 @@
+C:\Users\ftegitim\source\repos\Loops\LoopExamples\bin\Debug\LoopExamples.exe.config
+C:\Users\ftegitim\source\repos\Loops\LoopExamples\bin\Debug\LoopExamples.exe
+C:\Users\ftegitim\source\repos\Loops\LoopExamples\bin\Debug\LoopExamples.pdb
+C:\Users\ftegitim\source\repos\Loops\LoopExamples\obj\Debug\LoopExamples.Form1.resources
+C:\Users\ftegitim\source\repos\Loops\LoopExamples\obj\Debug\LoopExamples.Properties.Resources.resources
+C:\Users\ftegitim\source\repos\Loops\LoopExamples\obj\Debug\LoopExamples.csproj.GenerateResource.cache
+C:\Users\ftegitim\source\repos\Loops\LoopExamples\obj\Debug\LoopExamples.exe
+C:\Users\ftegitim\source\repos\Loops\LoopExamples\obj\Debug\LoopExamples.pdb

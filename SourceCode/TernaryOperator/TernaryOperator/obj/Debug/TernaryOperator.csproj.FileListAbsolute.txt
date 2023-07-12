@@ -1,0 +1,9 @@
+C:\Users\ftegitim\source\repos\TernaryOperator\TernaryOperator\bin\Debug\TernaryOperator.exe.config
+C:\Users\ftegitim\source\repos\TernaryOperator\TernaryOperator\bin\Debug\TernaryOperator.exe
+C:\Users\ftegitim\source\repos\TernaryOperator\TernaryOperator\bin\Debug\TernaryOperator.pdb
+C:\Users\ftegitim\source\repos\TernaryOperator\TernaryOperator\obj\Debug\TernaryOperator.csprojAssemblyReference.cache
+C:\Users\ftegitim\source\repos\TernaryOperator\TernaryOperator\obj\Debug\TernaryOperator.Form1.resources
+C:\Users\ftegitim\source\repos\TernaryOperator\TernaryOperator\obj\Debug\TernaryOperator.Properties.Resources.resources
+C:\Users\ftegitim\source\repos\TernaryOperator\TernaryOperator\obj\Debug\TernaryOperator.csproj.GenerateResource.cache
+C:\Users\ftegitim\source\repos\TernaryOperator\TernaryOperator\obj\Debug\TernaryOperator.exe
+C:\Users\ftegitim\source\repos\TernaryOperator\TernaryOperator\obj\Debug\TernaryOperator.pdb

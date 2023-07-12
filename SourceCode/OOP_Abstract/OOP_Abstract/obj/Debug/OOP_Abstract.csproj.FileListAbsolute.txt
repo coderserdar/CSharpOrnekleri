@@ -1,0 +1,9 @@
+C:\Users\ftegitim\source\repos\OOP_Abstract\OOP_Abstract\bin\Debug\OOP_Abstract.exe.config
+C:\Users\ftegitim\source\repos\OOP_Abstract\OOP_Abstract\bin\Debug\OOP_Abstract.exe
+C:\Users\ftegitim\source\repos\OOP_Abstract\OOP_Abstract\bin\Debug\OOP_Abstract.pdb
+C:\Users\ftegitim\source\repos\OOP_Abstract\OOP_Abstract\obj\Debug\OOP_Abstract.csprojAssemblyReference.cache
+C:\Users\ftegitim\source\repos\OOP_Abstract\OOP_Abstract\obj\Debug\OOP_Abstract.Form1.resources
+C:\Users\ftegitim\source\repos\OOP_Abstract\OOP_Abstract\obj\Debug\OOP_Abstract.Properties.Resources.resources
+C:\Users\ftegitim\source\repos\OOP_Abstract\OOP_Abstract\obj\Debug\OOP_Abstract.csproj.GenerateResource.cache
+C:\Users\ftegitim\source\repos\OOP_Abstract\OOP_Abstract\obj\Debug\OOP_Abstract.exe
+C:\Users\ftegitim\source\repos\OOP_Abstract\OOP_Abstract\obj\Debug\OOP_Abstract.pdb

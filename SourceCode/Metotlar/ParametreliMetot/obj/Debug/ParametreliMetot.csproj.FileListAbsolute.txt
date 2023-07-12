@@ -1,0 +1,9 @@
+C:\Users\ftegitim\source\repos\Metotlar\ParametreliMetot\bin\Debug\ParametreliMetot.exe.config
+C:\Users\ftegitim\source\repos\Metotlar\ParametreliMetot\bin\Debug\ParametreliMetot.exe
+C:\Users\ftegitim\source\repos\Metotlar\ParametreliMetot\bin\Debug\ParametreliMetot.pdb
+C:\Users\ftegitim\source\repos\Metotlar\ParametreliMetot\obj\Debug\ParametreliMetot.Form1.resources
+C:\Users\ftegitim\source\repos\Metotlar\ParametreliMetot\obj\Debug\ParametreliMetot.Properties.Resources.resources
+C:\Users\ftegitim\source\repos\Metotlar\ParametreliMetot\obj\Debug\ParametreliMetot.csproj.GenerateResource.cache
+C:\Users\ftegitim\source\repos\Metotlar\ParametreliMetot\obj\Debug\ParametreliMetot.exe
+C:\Users\ftegitim\source\repos\Metotlar\ParametreliMetot\obj\Debug\ParametreliMetot.pdb
+C:\Users\ftegitim\source\repos\Metotlar\ParametreliMetot\obj\Debug\ParametreliMetot.csprojAssemblyReference.cache

@@ -1,0 +1,9 @@
+C:\Users\ftegitim\source\repos\OOP_Static\OOP_Static\bin\Debug\OOP_Static.exe.config
+C:\Users\ftegitim\source\repos\OOP_Static\OOP_Static\bin\Debug\OOP_Static.exe
+C:\Users\ftegitim\source\repos\OOP_Static\OOP_Static\bin\Debug\OOP_Static.pdb
+C:\Users\ftegitim\source\repos\OOP_Static\OOP_Static\obj\Debug\OOP_Static.csprojAssemblyReference.cache
+C:\Users\ftegitim\source\repos\OOP_Static\OOP_Static\obj\Debug\OOP_Static.Form1.resources
+C:\Users\ftegitim\source\repos\OOP_Static\OOP_Static\obj\Debug\OOP_Static.Properties.Resources.resources
+C:\Users\ftegitim\source\repos\OOP_Static\OOP_Static\obj\Debug\OOP_Static.csproj.GenerateResource.cache
+C:\Users\ftegitim\source\repos\OOP_Static\OOP_Static\obj\Debug\OOP_Static.exe
+C:\Users\ftegitim\source\repos\OOP_Static\OOP_Static\obj\Debug\OOP_Static.pdb

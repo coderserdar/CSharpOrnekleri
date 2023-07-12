@@ -1,0 +1,9 @@
+C:\Users\ftegitim\source\repos\Collections\GenericList\bin\Debug\GenericList.exe.config
+C:\Users\ftegitim\source\repos\Collections\GenericList\bin\Debug\GenericList.exe
+C:\Users\ftegitim\source\repos\Collections\GenericList\bin\Debug\GenericList.pdb
+C:\Users\ftegitim\source\repos\Collections\GenericList\obj\Debug\GenericList.csprojAssemblyReference.cache
+C:\Users\ftegitim\source\repos\Collections\GenericList\obj\Debug\GenericList.Form1.resources
+C:\Users\ftegitim\source\repos\Collections\GenericList\obj\Debug\GenericList.Properties.Resources.resources
+C:\Users\ftegitim\source\repos\Collections\GenericList\obj\Debug\GenericList.csproj.GenerateResource.cache
+C:\Users\ftegitim\source\repos\Collections\GenericList\obj\Debug\GenericList.exe
+C:\Users\ftegitim\source\repos\Collections\GenericList\obj\Debug\GenericList.pdb

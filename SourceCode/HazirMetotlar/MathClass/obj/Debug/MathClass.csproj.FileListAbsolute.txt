@@ -1,0 +1,9 @@
+C:\Users\ftegitim\source\repos\HazirMetotlar\MathClass\bin\Debug\MathClass.exe.config
+C:\Users\ftegitim\source\repos\HazirMetotlar\MathClass\bin\Debug\MathClass.exe
+C:\Users\ftegitim\source\repos\HazirMetotlar\MathClass\bin\Debug\MathClass.pdb
+C:\Users\ftegitim\source\repos\HazirMetotlar\MathClass\obj\Debug\MathClass.csprojAssemblyReference.cache
+C:\Users\ftegitim\source\repos\HazirMetotlar\MathClass\obj\Debug\MathClass.Form1.resources
+C:\Users\ftegitim\source\repos\HazirMetotlar\MathClass\obj\Debug\MathClass.Properties.Resources.resources
+C:\Users\ftegitim\source\repos\HazirMetotlar\MathClass\obj\Debug\MathClass.csproj.GenerateResource.cache
+C:\Users\ftegitim\source\repos\HazirMetotlar\MathClass\obj\Debug\MathClass.exe
+C:\Users\ftegitim\source\repos\HazirMetotlar\MathClass\obj\Debug\MathClass.pdb

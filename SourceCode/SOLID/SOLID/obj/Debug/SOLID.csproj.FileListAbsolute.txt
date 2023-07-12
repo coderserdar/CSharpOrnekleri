@@ -1,0 +1,6 @@
+C:\Users\ftegitim\source\repos\SOLID\SOLID\bin\Debug\SOLID.exe.config
+C:\Users\ftegitim\source\repos\SOLID\SOLID\bin\Debug\SOLID.exe
+C:\Users\ftegitim\source\repos\SOLID\SOLID\bin\Debug\SOLID.pdb
+C:\Users\ftegitim\source\repos\SOLID\SOLID\obj\Debug\SOLID.csprojAssemblyReference.cache
+C:\Users\ftegitim\source\repos\SOLID\SOLID\obj\Debug\SOLID.exe
+C:\Users\ftegitim\source\repos\SOLID\SOLID\obj\Debug\SOLID.pdb

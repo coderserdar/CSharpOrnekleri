@@ -1,0 +1,9 @@
+C:\Users\ftegitim\source\repos\HorseRacing\HorseRacing\bin\Debug\HorseRacing.exe.config
+C:\Users\ftegitim\source\repos\HorseRacing\HorseRacing\bin\Debug\HorseRacing.exe
+C:\Users\ftegitim\source\repos\HorseRacing\HorseRacing\bin\Debug\HorseRacing.pdb
+C:\Users\ftegitim\source\repos\HorseRacing\HorseRacing\obj\Debug\HorseRacing.csprojAssemblyReference.cache
+C:\Users\ftegitim\source\repos\HorseRacing\HorseRacing\obj\Debug\HorseRacing.Form1.resources
+C:\Users\ftegitim\source\repos\HorseRacing\HorseRacing\obj\Debug\HorseRacing.Properties.Resources.resources
+C:\Users\ftegitim\source\repos\HorseRacing\HorseRacing\obj\Debug\HorseRacing.csproj.GenerateResource.cache
+C:\Users\ftegitim\source\repos\HorseRacing\HorseRacing\obj\Debug\HorseRacing.exe
+C:\Users\ftegitim\source\repos\HorseRacing\HorseRacing\obj\Debug\HorseRacing.pdb

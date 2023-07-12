@@ -1,0 +1,6 @@
+C:\Users\ftegitim\source\repos\Algoritmalar\TryCatch\bin\Debug\TryCatch.exe.config
+C:\Users\ftegitim\source\repos\Algoritmalar\TryCatch\bin\Debug\TryCatch.exe
+C:\Users\ftegitim\source\repos\Algoritmalar\TryCatch\bin\Debug\TryCatch.pdb
+C:\Users\ftegitim\source\repos\Algoritmalar\TryCatch\obj\Debug\TryCatch.csprojAssemblyReference.cache
+C:\Users\ftegitim\source\repos\Algoritmalar\TryCatch\obj\Debug\TryCatch.exe
+C:\Users\ftegitim\source\repos\Algoritmalar\TryCatch\obj\Debug\TryCatch.pdb

@@ -1,0 +1,9 @@
+C:\Users\ftegitim\source\repos\OOP_Interfaces\OOP_Interfaces\bin\Debug\OOP_Interfaces.exe.config
+C:\Users\ftegitim\source\repos\OOP_Interfaces\OOP_Interfaces\bin\Debug\OOP_Interfaces.exe
+C:\Users\ftegitim\source\repos\OOP_Interfaces\OOP_Interfaces\bin\Debug\OOP_Interfaces.pdb
+C:\Users\ftegitim\source\repos\OOP_Interfaces\OOP_Interfaces\obj\Debug\OOP_Interfaces.csprojAssemblyReference.cache
+C:\Users\ftegitim\source\repos\OOP_Interfaces\OOP_Interfaces\obj\Debug\OOP_Interfaces.Form1.resources
+C:\Users\ftegitim\source\repos\OOP_Interfaces\OOP_Interfaces\obj\Debug\OOP_Interfaces.Properties.Resources.resources
+C:\Users\ftegitim\source\repos\OOP_Interfaces\OOP_Interfaces\obj\Debug\OOP_Interfaces.csproj.GenerateResource.cache
+C:\Users\ftegitim\source\repos\OOP_Interfaces\OOP_Interfaces\obj\Debug\OOP_Interfaces.exe
+C:\Users\ftegitim\source\repos\OOP_Interfaces\OOP_Interfaces\obj\Debug\OOP_Interfaces.pdb

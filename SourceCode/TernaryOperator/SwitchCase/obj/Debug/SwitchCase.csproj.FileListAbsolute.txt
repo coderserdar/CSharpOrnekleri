@@ -1,0 +1,9 @@
+C:\Users\ftegitim\source\repos\TernaryOperator\SwitchCase\bin\Debug\SwitchCase.exe.config
+C:\Users\ftegitim\source\repos\TernaryOperator\SwitchCase\bin\Debug\SwitchCase.exe
+C:\Users\ftegitim\source\repos\TernaryOperator\SwitchCase\bin\Debug\SwitchCase.pdb
+C:\Users\ftegitim\source\repos\TernaryOperator\SwitchCase\obj\Debug\SwitchCase.Form1.resources
+C:\Users\ftegitim\source\repos\TernaryOperator\SwitchCase\obj\Debug\SwitchCase.Properties.Resources.resources
+C:\Users\ftegitim\source\repos\TernaryOperator\SwitchCase\obj\Debug\SwitchCase.csproj.GenerateResource.cache
+C:\Users\ftegitim\source\repos\TernaryOperator\SwitchCase\obj\Debug\SwitchCase.exe
+C:\Users\ftegitim\source\repos\TernaryOperator\SwitchCase\obj\Debug\SwitchCase.pdb
+C:\Users\ftegitim\source\repos\TernaryOperator\SwitchCase\obj\Debug\SwitchCase.csprojAssemblyReference.cache

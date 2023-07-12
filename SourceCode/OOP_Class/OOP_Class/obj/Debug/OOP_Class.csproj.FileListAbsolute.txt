@@ -1,0 +1,9 @@
+C:\Users\ftegitim\source\repos\OOP_Class\OOP_Class\bin\Debug\OOP_Class.exe.config
+C:\Users\ftegitim\source\repos\OOP_Class\OOP_Class\bin\Debug\OOP_Class.exe
+C:\Users\ftegitim\source\repos\OOP_Class\OOP_Class\bin\Debug\OOP_Class.pdb
+C:\Users\ftegitim\source\repos\OOP_Class\OOP_Class\obj\Debug\OOP_Class.csprojAssemblyReference.cache
+C:\Users\ftegitim\source\repos\OOP_Class\OOP_Class\obj\Debug\OOP_Class.Form1.resources
+C:\Users\ftegitim\source\repos\OOP_Class\OOP_Class\obj\Debug\OOP_Class.Properties.Resources.resources
+C:\Users\ftegitim\source\repos\OOP_Class\OOP_Class\obj\Debug\OOP_Class.csproj.GenerateResource.cache
+C:\Users\ftegitim\source\repos\OOP_Class\OOP_Class\obj\Debug\OOP_Class.exe
+C:\Users\ftegitim\source\repos\OOP_Class\OOP_Class\obj\Debug\OOP_Class.pdb

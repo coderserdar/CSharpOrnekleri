@@ -1,0 +1,4 @@
+C:\Users\ftegitim\source\repos\Collections\ArrayList\obj\Debug\ArrayListClass.csprojAssemblyReference.cache
+C:\Users\ftegitim\source\repos\Collections\ArrayList\obj\Debug\ArrayListClass.Form1.resources
+C:\Users\ftegitim\source\repos\Collections\ArrayList\obj\Debug\ArrayList.Properties.Resources.resources
+C:\Users\ftegitim\source\repos\Collections\ArrayList\obj\Debug\ArrayListClass.csproj.GenerateResource.cache

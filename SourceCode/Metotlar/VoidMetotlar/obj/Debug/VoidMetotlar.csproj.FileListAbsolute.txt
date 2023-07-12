@@ -1,0 +1,10 @@
+C:\Users\ftegitim\source\repos\Metotlar\VoidMetotlar\bin\Debug\VoidMetotlar.exe.config
+C:\Users\ftegitim\source\repos\Metotlar\VoidMetotlar\bin\Debug\VoidMetotlar.exe
+C:\Users\ftegitim\source\repos\Metotlar\VoidMetotlar\bin\Debug\VoidMetotlar.pdb
+C:\Users\ftegitim\source\repos\Metotlar\VoidMetotlar\obj\Debug\VoidMetotlar.csprojAssemblyReference.cache
+C:\Users\ftegitim\source\repos\Metotlar\VoidMetotlar\obj\Debug\VoidMetotlar.Form1.resources
+C:\Users\ftegitim\source\repos\Metotlar\VoidMetotlar\obj\Debug\VoidMetotlar.Properties.Resources.resources
+C:\Users\ftegitim\source\repos\Metotlar\VoidMetotlar\obj\Debug\VoidMetotlar.csproj.GenerateResource.cache
+C:\Users\ftegitim\source\repos\Metotlar\VoidMetotlar\obj\Debug\VoidMetotlar.exe
+C:\Users\ftegitim\source\repos\Metotlar\VoidMetotlar\obj\Debug\VoidMetotlar.pdb
+C:\Users\ftegitim\source\repos\Metotlar\VoidMetotlar\obj\Debug\VoidMetotlar.Form2.resources

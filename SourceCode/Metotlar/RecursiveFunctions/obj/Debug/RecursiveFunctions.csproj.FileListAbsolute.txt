@@ -1,0 +1,8 @@
+C:\Users\ftegitim\source\repos\Metotlar\RecursiveFunctions\bin\Debug\RecursiveFunctions.exe.config
+C:\Users\ftegitim\source\repos\Metotlar\RecursiveFunctions\bin\Debug\RecursiveFunctions.exe
+C:\Users\ftegitim\source\repos\Metotlar\RecursiveFunctions\bin\Debug\RecursiveFunctions.pdb
+C:\Users\ftegitim\source\repos\Metotlar\RecursiveFunctions\obj\Debug\RecursiveFunctions.Form1.resources
+C:\Users\ftegitim\source\repos\Metotlar\RecursiveFunctions\obj\Debug\RecursiveFunctions.Properties.Resources.resources
+C:\Users\ftegitim\source\repos\Metotlar\RecursiveFunctions\obj\Debug\RecursiveFunctions.csproj.GenerateResource.cache
+C:\Users\ftegitim\source\repos\Metotlar\RecursiveFunctions\obj\Debug\RecursiveFunctions.exe
+C:\Users\ftegitim\source\repos\Metotlar\RecursiveFunctions\obj\Debug\RecursiveFunctions.pdb

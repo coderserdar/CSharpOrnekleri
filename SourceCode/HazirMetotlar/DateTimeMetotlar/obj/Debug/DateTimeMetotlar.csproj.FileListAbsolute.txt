@@ -1,0 +1,9 @@
+C:\Users\ftegitim\source\repos\HazirMetotlar\DateTimeMetotlar\bin\Debug\DateTimeMetotlar.exe.config
+C:\Users\ftegitim\source\repos\HazirMetotlar\DateTimeMetotlar\bin\Debug\DateTimeMetotlar.exe
+C:\Users\ftegitim\source\repos\HazirMetotlar\DateTimeMetotlar\bin\Debug\DateTimeMetotlar.pdb
+C:\Users\ftegitim\source\repos\HazirMetotlar\DateTimeMetotlar\obj\Debug\DateTimeMetotlar.csprojAssemblyReference.cache
+C:\Users\ftegitim\source\repos\HazirMetotlar\DateTimeMetotlar\obj\Debug\DateTimeMetotlar.Form1.resources
+C:\Users\ftegitim\source\repos\HazirMetotlar\DateTimeMetotlar\obj\Debug\DateTimeMetotlar.Properties.Resources.resources
+C:\Users\ftegitim\source\repos\HazirMetotlar\DateTimeMetotlar\obj\Debug\DateTimeMetotlar.csproj.GenerateResource.cache
+C:\Users\ftegitim\source\repos\HazirMetotlar\DateTimeMetotlar\obj\Debug\DateTimeMetotlar.exe
+C:\Users\ftegitim\source\repos\HazirMetotlar\DateTimeMetotlar\obj\Debug\DateTimeMetotlar.pdb

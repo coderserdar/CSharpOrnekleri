@@ -1,0 +1,9 @@
+C:\Users\ftegitim\source\repos\Metotlar\RefOutParams\bin\Debug\RefOutParams.exe.config
+C:\Users\ftegitim\source\repos\Metotlar\RefOutParams\bin\Debug\RefOutParams.exe
+C:\Users\ftegitim\source\repos\Metotlar\RefOutParams\bin\Debug\RefOutParams.pdb
+C:\Users\ftegitim\source\repos\Metotlar\RefOutParams\obj\Debug\RefOutParams.csprojAssemblyReference.cache
+C:\Users\ftegitim\source\repos\Metotlar\RefOutParams\obj\Debug\RefOutParams.Form1.resources
+C:\Users\ftegitim\source\repos\Metotlar\RefOutParams\obj\Debug\RefOutParams.Properties.Resources.resources
+C:\Users\ftegitim\source\repos\Metotlar\RefOutParams\obj\Debug\RefOutParams.csproj.GenerateResource.cache
+C:\Users\ftegitim\source\repos\Metotlar\RefOutParams\obj\Debug\RefOutParams.exe
+C:\Users\ftegitim\source\repos\Metotlar\RefOutParams\obj\Debug\RefOutParams.pdb

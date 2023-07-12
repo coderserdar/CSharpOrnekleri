@@ -1,0 +1,6 @@
+C:\Users\ftegitim\source\repos\Algoritmalar\MatmeticalOparetors\bin\Debug\MatmeticalOparetors.exe.config
+C:\Users\ftegitim\source\repos\Algoritmalar\MatmeticalOparetors\bin\Debug\MatmeticalOparetors.exe
+C:\Users\ftegitim\source\repos\Algoritmalar\MatmeticalOparetors\bin\Debug\MatmeticalOparetors.pdb
+C:\Users\ftegitim\source\repos\Algoritmalar\MatmeticalOparetors\obj\Debug\MatmeticalOparetors.csprojAssemblyReference.cache
+C:\Users\ftegitim\source\repos\Algoritmalar\MatmeticalOparetors\obj\Debug\MatmeticalOparetors.exe
+C:\Users\ftegitim\source\repos\Algoritmalar\MatmeticalOparetors\obj\Debug\MatmeticalOparetors.pdb

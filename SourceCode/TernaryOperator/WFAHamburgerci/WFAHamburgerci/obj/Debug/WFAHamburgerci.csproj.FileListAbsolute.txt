@@ -1,0 +1,13 @@
+C:\Users\ftegitim\source\repos\WFAHamburgerci\WFAHamburgerci\bin\Debug\WFAHamburgerci.exe.config
+C:\Users\ftegitim\source\repos\WFAHamburgerci\WFAHamburgerci\bin\Debug\WFAHamburgerci.exe
+C:\Users\ftegitim\source\repos\WFAHamburgerci\WFAHamburgerci\bin\Debug\WFAHamburgerci.pdb
+C:\Users\ftegitim\source\repos\WFAHamburgerci\WFAHamburgerci\obj\Debug\WFAHamburgerci.csprojAssemblyReference.cache
+C:\Users\ftegitim\source\repos\WFAHamburgerci\WFAHamburgerci\obj\Debug\WFAHamburgerci.Form1.resources
+C:\Users\ftegitim\source\repos\WFAHamburgerci\WFAHamburgerci\obj\Debug\WFAHamburgerci.Form2.resources
+C:\Users\ftegitim\source\repos\WFAHamburgerci\WFAHamburgerci\obj\Debug\WFAHamburgerci.Form3.resources
+C:\Users\ftegitim\source\repos\WFAHamburgerci\WFAHamburgerci\obj\Debug\WFAHamburgerci.Form4.resources
+C:\Users\ftegitim\source\repos\WFAHamburgerci\WFAHamburgerci\obj\Debug\WFAHamburgerci.MyMDIForm.resources
+C:\Users\ftegitim\source\repos\WFAHamburgerci\WFAHamburgerci\obj\Debug\WFAHamburgerci.Properties.Resources.resources
+C:\Users\ftegitim\source\repos\WFAHamburgerci\WFAHamburgerci\obj\Debug\WFAHamburgerci.csproj.GenerateResource.cache
+C:\Users\ftegitim\source\repos\WFAHamburgerci\WFAHamburgerci\obj\Debug\WFAHamburgerci.exe
+C:\Users\ftegitim\source\repos\WFAHamburgerci\WFAHamburgerci\obj\Debug\WFAHamburgerci.pdb

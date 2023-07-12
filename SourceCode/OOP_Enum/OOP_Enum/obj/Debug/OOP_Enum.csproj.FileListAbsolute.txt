@@ -1,0 +1,11 @@
+C:\Users\ftegitim\source\repos\OOP_Enum\OOP_Enum\bin\Debug\OOP_Enum.exe.config
+C:\Users\ftegitim\source\repos\OOP_Enum\OOP_Enum\bin\Debug\OOP_Enum.exe
+C:\Users\ftegitim\source\repos\OOP_Enum\OOP_Enum\bin\Debug\OOP_Enum.pdb
+C:\Users\ftegitim\source\repos\OOP_Enum\OOP_Enum\obj\Debug\OOP_Enum.csprojAssemblyReference.cache
+C:\Users\ftegitim\source\repos\OOP_Enum\OOP_Enum\obj\Debug\OOP_Enum.Form1.resources
+C:\Users\ftegitim\source\repos\OOP_Enum\OOP_Enum\obj\Debug\OOP_Enum.Properties.Resources.resources
+C:\Users\ftegitim\source\repos\OOP_Enum\OOP_Enum\obj\Debug\OOP_Enum.csproj.GenerateResource.cache
+C:\Users\ftegitim\source\repos\OOP_Enum\OOP_Enum\obj\Debug\OOP_Enum.exe
+C:\Users\ftegitim\source\repos\OOP_Enum\OOP_Enum\obj\Debug\OOP_Enum.pdb
+C:\Users\ftegitim\source\repos\OOP_Enum\OOP_Enum\obj\Debug\OOP_Enum.Form2.resources
+C:\Users\ftegitim\source\repos\OOP_Enum\OOP_Enum\obj\Debug\OOP_Enum.Form3.resources

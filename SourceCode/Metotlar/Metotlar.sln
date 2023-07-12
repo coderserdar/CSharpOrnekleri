@@ -1,0 +1,55 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29613.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VoidMetotlar", "VoidMetotlar\VoidMetotlar.csproj", "{C1212957-B2D0-4108-9370-C01EF9EC422C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ParametreliMetot", "ParametreliMetot\ParametreliMetot.csproj", "{A624646E-0447-4F29-9A95-070A68F46FDE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MetotOverload", "MetotOverload\MetotOverload.csproj", "{6CB03D22-D004-41B1-905E-05178A759998}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Functions", "Functions\Functions.csproj", "{BC150EBC-9E74-486F-8E6C-2C86981B8379}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RefOutParams", "RefOutParams\RefOutParams.csproj", "{82569003-2D79-420F-A69A-DEB9BDCA98E2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RecursiveFunctions", "RecursiveFunctions\RecursiveFunctions.csproj", "{4A7BF62B-4BD6-471D-80E4-E6B4B4E65FE2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C1212957-B2D0-4108-9370-C01EF9EC422C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C1212957-B2D0-4108-9370-C01EF9EC422C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C1212957-B2D0-4108-9370-C01EF9EC422C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C1212957-B2D0-4108-9370-C01EF9EC422C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A624646E-0447-4F29-9A95-070A68F46FDE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A624646E-0447-4F29-9A95-070A68F46FDE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A624646E-0447-4F29-9A95-070A68F46FDE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A624646E-0447-4F29-9A95-070A68F46FDE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6CB03D22-D004-41B1-905E-05178A759998}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6CB03D22-D004-41B1-905E-05178A759998}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6CB03D22-D004-41B1-905E-05178A759998}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6CB03D22-D004-41B1-905E-05178A759998}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BC150EBC-9E74-486F-8E6C-2C86981B8379}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BC150EBC-9E74-486F-8E6C-2C86981B8379}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BC150EBC-9E74-486F-8E6C-2C86981B8379}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BC150EBC-9E74-486F-8E6C-2C86981B8379}.Release|Any CPU.Build.0 = Release|Any CPU
+		{82569003-2D79-420F-A69A-DEB9BDCA98E2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{82569003-2D79-420F-A69A-DEB9BDCA98E2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{82569003-2D79-420F-A69A-DEB9BDCA98E2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{82569003-2D79-420F-A69A-DEB9BDCA98E2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4A7BF62B-4BD6-471D-80E4-E6B4B4E65FE2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4A7BF62B-4BD6-471D-80E4-E6B4B4E65FE2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4A7BF62B-4BD6-471D-80E4-E6B4B4E65FE2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4A7BF62B-4BD6-471D-80E4-E6B4B4E65FE2}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C569E0A9-1752-4861-A0B9-37C20BCFC246}
+	EndGlobalSection
+EndGlobal

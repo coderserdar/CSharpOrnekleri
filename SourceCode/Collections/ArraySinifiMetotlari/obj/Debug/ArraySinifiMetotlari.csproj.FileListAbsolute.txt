@@ -1,0 +1,9 @@
+C:\Users\ftegitim\source\repos\Collections\ArraySinifiMetotlari\bin\Debug\ArraySinifiMetotlari.exe.config
+C:\Users\ftegitim\source\repos\Collections\ArraySinifiMetotlari\bin\Debug\ArraySinifiMetotlari.exe
+C:\Users\ftegitim\source\repos\Collections\ArraySinifiMetotlari\bin\Debug\ArraySinifiMetotlari.pdb
+C:\Users\ftegitim\source\repos\Collections\ArraySinifiMetotlari\obj\Debug\ArraySinifiMetotlari.csprojAssemblyReference.cache
+C:\Users\ftegitim\source\repos\Collections\ArraySinifiMetotlari\obj\Debug\ArraySinifiMetotlari.Form1.resources
+C:\Users\ftegitim\source\repos\Collections\ArraySinifiMetotlari\obj\Debug\ArraySinifiMetotlari.Properties.Resources.resources
+C:\Users\ftegitim\source\repos\Collections\ArraySinifiMetotlari\obj\Debug\ArraySinifiMetotlari.csproj.GenerateResource.cache
+C:\Users\ftegitim\source\repos\Collections\ArraySinifiMetotlari\obj\Debug\ArraySinifiMetotlari.exe
+C:\Users\ftegitim\source\repos\Collections\ArraySinifiMetotlari\obj\Debug\ArraySinifiMetotlari.pdb

@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29613.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SOLID", "SOLID\SOLID.csproj", "{F93364FB-0011-4765-A958-7E08E7EAF2AC}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{628732C4-71E4-4804-A54B-AC5DC6DB8740}"
+	ProjectSection(SolutionItems) = preProject
+		Aciklamalar.txt = Aciklamalar.txt
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F93364FB-0011-4765-A958-7E08E7EAF2AC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F93364FB-0011-4765-A958-7E08E7EAF2AC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F93364FB-0011-4765-A958-7E08E7EAF2AC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F93364FB-0011-4765-A958-7E08E7EAF2AC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FF0C1A20-83D3-406C-9800-212864373F90}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,9 @@
+C:\Users\ftegitim\source\repos\OOP_Inheritance\OOP_Inheritance\obj\Debug\OOP_Inheritance.csprojAssemblyReference.cache
+C:\Users\ftegitim\source\repos\OOP_Inheritance\OOP_Inheritance\obj\Debug\OOP_Inheritance.Form1.resources
+C:\Users\ftegitim\source\repos\OOP_Inheritance\OOP_Inheritance\obj\Debug\OOP_Inheritance.Properties.Resources.resources
+C:\Users\ftegitim\source\repos\OOP_Inheritance\OOP_Inheritance\obj\Debug\OOP_Inheritance.csproj.GenerateResource.cache
+C:\Users\ftegitim\source\repos\OOP_Inheritance\OOP_Inheritance\bin\Debug\OOP_Inheritance.exe.config
+C:\Users\ftegitim\source\repos\OOP_Inheritance\OOP_Inheritance\bin\Debug\OOP_Inheritance.exe
+C:\Users\ftegitim\source\repos\OOP_Inheritance\OOP_Inheritance\bin\Debug\OOP_Inheritance.pdb
+C:\Users\ftegitim\source\repos\OOP_Inheritance\OOP_Inheritance\obj\Debug\OOP_Inheritance.exe
+C:\Users\ftegitim\source\repos\OOP_Inheritance\OOP_Inheritance\obj\Debug\OOP_Inheritance.pdb

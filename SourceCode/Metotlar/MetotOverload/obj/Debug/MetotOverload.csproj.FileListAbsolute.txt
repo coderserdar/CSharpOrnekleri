@@ -1,0 +1,9 @@
+C:\Users\ftegitim\source\repos\Metotlar\MetotOverload\bin\Debug\MetotOverload.exe.config
+C:\Users\ftegitim\source\repos\Metotlar\MetotOverload\bin\Debug\MetotOverload.exe
+C:\Users\ftegitim\source\repos\Metotlar\MetotOverload\bin\Debug\MetotOverload.pdb
+C:\Users\ftegitim\source\repos\Metotlar\MetotOverload\obj\Debug\MetotOverload.csprojAssemblyReference.cache
+C:\Users\ftegitim\source\repos\Metotlar\MetotOverload\obj\Debug\MetotOverload.Form1.resources
+C:\Users\ftegitim\source\repos\Metotlar\MetotOverload\obj\Debug\MetotOverload.Properties.Resources.resources
+C:\Users\ftegitim\source\repos\Metotlar\MetotOverload\obj\Debug\MetotOverload.csproj.GenerateResource.cache
+C:\Users\ftegitim\source\repos\Metotlar\MetotOverload\obj\Debug\MetotOverload.exe
+C:\Users\ftegitim\source\repos\Metotlar\MetotOverload\obj\Debug\MetotOverload.pdb

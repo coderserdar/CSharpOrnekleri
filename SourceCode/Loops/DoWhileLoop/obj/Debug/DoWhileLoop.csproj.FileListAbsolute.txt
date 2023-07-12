@@ -1,0 +1,9 @@
+C:\Users\ftegitim\source\repos\Loops\DoWhileLoop\bin\Debug\DoWhileLoop.exe.config
+C:\Users\ftegitim\source\repos\Loops\DoWhileLoop\bin\Debug\DoWhileLoop.exe
+C:\Users\ftegitim\source\repos\Loops\DoWhileLoop\bin\Debug\DoWhileLoop.pdb
+C:\Users\ftegitim\source\repos\Loops\DoWhileLoop\obj\Debug\DoWhileLoop.csprojAssemblyReference.cache
+C:\Users\ftegitim\source\repos\Loops\DoWhileLoop\obj\Debug\DoWhileLoop.Form1.resources
+C:\Users\ftegitim\source\repos\Loops\DoWhileLoop\obj\Debug\DoWhileLoop.Properties.Resources.resources
+C:\Users\ftegitim\source\repos\Loops\DoWhileLoop\obj\Debug\DoWhileLoop.csproj.GenerateResource.cache
+C:\Users\ftegitim\source\repos\Loops\DoWhileLoop\obj\Debug\DoWhileLoop.exe
+C:\Users\ftegitim\source\repos\Loops\DoWhileLoop\obj\Debug\DoWhileLoop.pdb

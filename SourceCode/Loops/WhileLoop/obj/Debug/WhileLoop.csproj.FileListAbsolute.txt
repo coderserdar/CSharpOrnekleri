@@ -1,0 +1,9 @@
+C:\Users\ftegitim\source\repos\Loops\WhileLoop\bin\Debug\WhileLoop.exe.config
+C:\Users\ftegitim\source\repos\Loops\WhileLoop\bin\Debug\WhileLoop.exe
+C:\Users\ftegitim\source\repos\Loops\WhileLoop\bin\Debug\WhileLoop.pdb
+C:\Users\ftegitim\source\repos\Loops\WhileLoop\obj\Debug\WhileLoop.csprojAssemblyReference.cache
+C:\Users\ftegitim\source\repos\Loops\WhileLoop\obj\Debug\WhileLoop.Form1.resources
+C:\Users\ftegitim\source\repos\Loops\WhileLoop\obj\Debug\WhileLoop.Properties.Resources.resources
+C:\Users\ftegitim\source\repos\Loops\WhileLoop\obj\Debug\WhileLoop.csproj.GenerateResource.cache
+C:\Users\ftegitim\source\repos\Loops\WhileLoop\obj\Debug\WhileLoop.exe
+C:\Users\ftegitim\source\repos\Loops\WhileLoop\obj\Debug\WhileLoop.pdb

@@ -1,0 +1,11 @@
+C:\Users\ftegitim\source\repos\IfElse\IfElse\bin\Debug\IfElse.exe.config
+C:\Users\ftegitim\source\repos\IfElse\IfElse\bin\Debug\IfElse.exe
+C:\Users\ftegitim\source\repos\IfElse\IfElse\bin\Debug\IfElse.pdb
+C:\Users\ftegitim\source\repos\IfElse\IfElse\obj\Debug\IfElse.csprojAssemblyReference.cache
+C:\Users\ftegitim\source\repos\IfElse\IfElse\obj\Debug\IfElse.Form1.resources
+C:\Users\ftegitim\source\repos\IfElse\IfElse\obj\Debug\IfElse.Properties.Resources.resources
+C:\Users\ftegitim\source\repos\IfElse\IfElse\obj\Debug\IfElse.csproj.GenerateResource.cache
+C:\Users\ftegitim\source\repos\IfElse\IfElse\obj\Debug\IfElse.exe
+C:\Users\ftegitim\source\repos\IfElse\IfElse\obj\Debug\IfElse.pdb
+C:\Users\ftegitim\source\repos\IfElse\IfElse\obj\Debug\IfElse.Form2.resources
+C:\Users\ftegitim\source\repos\IfElse\IfElse\obj\Debug\IfElse.Form3.resources

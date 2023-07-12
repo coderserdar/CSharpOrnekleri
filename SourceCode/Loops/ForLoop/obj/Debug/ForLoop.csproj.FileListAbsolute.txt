@@ -1,0 +1,10 @@
+C:\Users\ftegitim\source\repos\Loops\ForLoop\bin\Debug\ForLoop.exe.config
+C:\Users\ftegitim\source\repos\Loops\ForLoop\bin\Debug\ForLoop.exe
+C:\Users\ftegitim\source\repos\Loops\ForLoop\bin\Debug\ForLoop.pdb
+C:\Users\ftegitim\source\repos\Loops\ForLoop\obj\Debug\ForLoop.csprojAssemblyReference.cache
+C:\Users\ftegitim\source\repos\Loops\ForLoop\obj\Debug\ForLoop.Form1.resources
+C:\Users\ftegitim\source\repos\Loops\ForLoop\obj\Debug\ForLoop.Properties.Resources.resources
+C:\Users\ftegitim\source\repos\Loops\ForLoop\obj\Debug\ForLoop.csproj.GenerateResource.cache
+C:\Users\ftegitim\source\repos\Loops\ForLoop\obj\Debug\ForLoop.exe
+C:\Users\ftegitim\source\repos\Loops\ForLoop\obj\Debug\ForLoop.pdb
+C:\Users\ftegitim\source\repos\Loops\ForLoop\obj\Debug\ForLoop.Form2.resources
