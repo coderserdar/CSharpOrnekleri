@@ -40,7 +40,7 @@ namespace ArrayListClass
         {
             //btnEkle
             //Object tipinde değer aldığı için her şeyi bir arraylist'e atabilirsiniz.
-            //yeniDizi.Add("Ziraat Teknoloji");
+            //yeniDizi.Add("ICTerra");
             //yeniDizi.Add(1855);
             //yeniDizi.Add(true);
             //yeniDizi.Add(new Button());
