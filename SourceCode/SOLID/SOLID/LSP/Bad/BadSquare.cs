@@ -1,10 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-
-namespace SOLID.LSP.Bad
+﻿namespace SOLID.LSP.Bad
 {
     //Karelerde birer dörtgen olduğu için alttaki yöntemi izlememiz yanlış olmayacktır.
     //Yalnız dörtgen yerine kare sınıfını kullandığımızda işlemler pek istediğimiz gibi sonuçlanmayacaktır.

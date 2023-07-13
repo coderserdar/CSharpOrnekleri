@@ -1,14 +1,4 @@
-﻿using SOLID.LSP.Bad;
-using SOLID.LSP.Validated;
-using SOLID.OCP.Validated.Abstract;
-using SOLID.OCP.Validated.Concrete;
-using SOLID.SRP.Bad;
-using SOLID.SRP.Validated;
-using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
+﻿using System;
 
 namespace SOLID
 {
